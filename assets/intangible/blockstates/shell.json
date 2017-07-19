@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,part=foot": {"model": "iron_block"},
+    "facing=south,part=foot": {"model": "iron_block"},
+    "facing=east,part=foot": {"model": "iron_block"},
+    "facing=west,part=foot": {"model": "iron_block"},
+    "facing=north,part=head": {"model": "iron_block"},
+    "facing=south,part=head": {"model": "iron_block"},
+    "facing=east,part=head": {"model": "iron_block"},
+    "facing=west,part=head": {"model": "iron_block"}
+  }
+}

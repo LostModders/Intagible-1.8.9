@@ -1,0 +1,273 @@
+{
+  "random.wingbeat": {
+    "category": "neutral",
+    "sounds": [
+      "random/wingbeat"
+    ]
+  },
+  "random.choir1": {
+    "category": "neutral",
+    "sounds": [
+      "random/choir1"
+    ]
+  },
+  "random.bonecreek_open": {
+    "category": "neutral",
+    "sounds": [
+      "random/bonecreek_open"
+    ]
+  },
+  "random.bonecreek_close": {
+    "category": "neutral",
+    "sounds": [
+      "random/bonecreek_close"
+    ]
+  },
+  "random.metalcreek": {
+    "category": "neutral",
+    "sounds": [
+      "random/metalcreek"
+    ]
+  },
+  "random.gong1": {
+    "category": "neutral",
+    "sounds": [
+      "random/gong1"
+    ]
+  },
+  "random.discovery": {
+    "category": "neutral",
+    "sounds": [
+      "random/discovery"
+    ]
+  },
+  "random.slurp": {
+    "category": "neutral",
+    "sounds": [
+      "random/slurp"
+    ]
+  },
+  "random.clink": {
+    "category": "neutral",
+    "sounds": [
+      "random/clink"
+    ]
+  },
+  "random.clunk": {
+    "category": "neutral",
+    "sounds": [
+      "random/clunk"
+    ]
+  },
+  "random.clank": {
+    "category": "neutral",
+    "sounds": [
+      "random/clank"
+    ]
+  },
+  "random.bellowout": {
+    "category": "neutral",
+    "sounds": [
+      "random/bellowout"
+    ]
+  },
+  "random.bellowin": {
+    "category": "neutral",
+    "sounds": [
+      "random/bellowin"
+    ]
+  },
+  "random.power_up": {
+    "category": "neutral",
+    "sounds": [
+      "random/power_up"
+    ]
+  },
+  "random.power_down": {
+    "category": "neutral",
+    "sounds": [
+      "random/power_down"
+    ]
+  },
+  "random.golem_powerup": {
+    "category": "neutral",
+    "sounds": [
+      "random/golem_powerup"
+    ]
+  },
+  "random.golem_powerdown": {
+    "category": "neutral",
+    "sounds": [
+      "random/golem_powerdown"
+    ]
+  },
+  "random.spellfail": {
+    "category": "neutral",
+    "sounds": [
+      "random/spellfail"
+    ]
+  },
+  "random.rendsoul": {
+    "category": "neutral",
+    "sounds": [
+      "random/rendsoul"
+    ]
+  },
+  "random.wrench": {
+    "category": "neutral",
+    "sounds": [
+      "random/wrench"
+    ]
+  },
+  "random.yoursoulismine": {
+    "category": "neutral",
+    "sounds": [
+      "random/yoursoulismine"
+    ]
+  },
+  "random.dirthit": {
+    "category": "neutral",
+    "sounds": [
+      "random/dirthit"
+    ]
+  },
+  "random.rockhit": {
+    "category": "neutral",
+    "sounds": [
+      "random/rockhit1",
+      "random/rockhit2",
+      "random/rockhit3",
+      "random/rockhit4"
+    ]
+  },
+  "random.jetpack": {
+    "category": "neutral",
+    "sounds": [
+      "random/jetpack"
+    ]
+  },
+  "random.deity1": {
+    "category": "neutral",
+    "sounds": [
+      "random/deity1"
+    ]
+  },
+  "random.deity2": {
+    "category": "neutral",
+    "sounds": [
+      "random/deity2"
+    ]
+  },
+  "random.deity3": {
+    "category": "neutral",
+    "sounds": [
+      "random/deity3"
+    ]
+  },
+  "random.deity4": {
+    "category": "neutral",
+    "sounds": [
+      "random/deity4"
+    ]
+  },
+  "random.machine": {
+    "category": "neutral",
+    "sounds": [ "random/machine1", "random/machine2", "random/machine3", "random/machine4" ]
+  },
+  "pigvillager.death": {
+    "category": "neutral",
+    "sounds": [ "pigvillager/death" ]
+  },
+  "pigvillager.haggle": {
+    "category": "neutral",
+    "sounds": [ "pigvillager/haggle1", "pigvillager/haggle2" ]
+  },
+  "pigvillager.hit": {
+    "category": "neutral",
+    "sounds": [ "pigvillager/hit1", "pigvillager/hit2" ]
+  },
+  "pigvillager.no": {
+    "category": "neutral",
+    "sounds": [ "pigvillager/no1", "pigvillager/no2", "pigvillager/no3" ]
+  },
+  "pigvillager.yes": {
+    "category": "neutral",
+    "sounds": [ "pigvillager/yes1", "pigvillager/yes2" ]
+  },
+  "pigvillager.idle": {
+    "category": "neutral",
+    "sounds": [ "pigvillager/idle1", "pigvillager/idle2", "pigvillager/idle3" ]
+  },
+  "avatar.talk": {
+    "category": "neutral",
+    "sounds": [ "avatar/talk1", "avatar/talk2", "avatar/talk3", "avatar/talk4", "avatar/talk5", "avatar/talk6" ]
+  },
+  "avatar.hit": {
+    "category": "neutral",
+    "sounds": [ "avatar/hit" ]
+  },
+  "avatar.death": {
+    "category": "neutral",
+    "sounds": [ "avatar/death" ]
+  },
+  "random.swoosh": {
+    "category": "neutral",
+    "sounds": [ "random/swoosh" ]
+  },
+  "random.spellfail2": {
+    "category": "neutral",
+    "sounds": [ "random/spellfail2" ]
+  },
+  "random.spell1": {
+    "category": "neutral",
+    "sounds": [ "random/spell1" ]
+  },
+  "random.spell2": {
+    "category": "neutral",
+    "sounds": [ "random/spell2" ]
+  },
+  "random.spell3": {
+    "category": "neutral",
+    "sounds": [ "random/spell3" ]
+  },
+  "random.squelch": {
+    "category": "neutral",
+    "sounds": [ "random/squelch" ]
+  },
+  "random.biglaser": {
+    "category": "neutral",
+    "sounds": [ "random/biglaser" ]
+  },
+  "random.click": {
+    "category": "neutral",
+    "sounds": [ "random/click" ]
+  },
+  "random.energyshield": {
+    "category": "neutral",
+    "sounds": [ "random/energyshield" ]
+  },
+  "random.peace": {
+    "category": "neutral",
+    "sounds": [ "random/peace" ]
+  },
+  "random.funeralmarch": {
+    "category": "neutral",
+    "sounds": [ "random/funeralmarch" ]
+  },
+  "random.melee": {
+    "category": "neutral",
+    "sounds": [ "random/melee1", "random/melee2", "random/melee3" ]
+  },
+  "random.golem_broken": {
+    "category": "neutral",
+    "sounds": [ "random/golem_broken" ]
+  },
+  "random.thump": {
+    "category": "neutral",
+    "sounds": [ "random/thump" ]
+  },
+  "random.trundle": {
+    "category": "neutral",
+    "sounds": [ "random/trundle" ]
+  }
+}

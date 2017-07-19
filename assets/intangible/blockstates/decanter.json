@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=true": {"model": "glass"},
+    "powered=false": {"model": "glass"}
+  }
+}

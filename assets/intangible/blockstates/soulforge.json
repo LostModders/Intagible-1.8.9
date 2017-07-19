@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "part=top": {"model": "stone"},
+    "part=middle": {"model": "stone"},
+    "part=bottom": {"model": "stone"}
+  }
+}

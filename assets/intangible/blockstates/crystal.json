@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=north,plane=wall": {"model": "glass"},
+    "facing=south,plane=wall": {"model": "glass"},
+    "facing=east,plane=wall": {"model": "glass"},
+    "facing=west,plane=wall": {"model": "glass"},
+    "facing=north,plane=floor": {"model": "glass"},
+    "facing=south,plane=floor": {"model": "glass"},
+    "facing=east,plane=floor": {"model": "glass"},
+    "facing=west,plane=floor": {"model": "glass"},
+    "facing=north,plane=ceiling": {"model": "glass"},
+    "facing=south,plane=ceiling": {"model": "glass"},
+    "facing=east,plane=ceiling": {"model": "glass"},
+    "facing=west,plane=ceiling": {"model": "glass"}
+  }
+}

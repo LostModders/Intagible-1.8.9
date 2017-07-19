@@ -1,0 +1,46 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
+    "textures": {
+        "0": "intangible:items/rod"
+    },
+    "elements": [
+        {
+            "name": "staffTop",
+            "from": [ 7.0, 5.0, 7.0 ],
+            "to": [ 9.0, 21.0, 9.0 ],
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 0.0, 0.0, 2.0, 16.0 ] },
+                "east": { "texture": "#0", "uv": [ 0.0, 0.0, 2.0, 16.0 ] },
+                "south": { "texture": "#0", "uv": [ 0.0, 0.0, 2.0, 16.0 ] },
+                "west": { "texture": "#0", "uv": [ 0.0, 0.0, 2.0, 16.0 ] },
+                "up": { "texture": "#0", "uv": [ 2.0, 0.0, 4.0, 2.0 ] },
+                "down": { "texture": "#0", "uv": [ 2.0, 0.0, 4.0, 2.0 ], "cullface": "down" }
+            }
+        },
+        {
+            "name": "staffBottom",
+            "from": [ 7.0, -5.0, 7.0 ],
+            "to": [ 9.0, 5.0, 9.0 ],
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 16.0, 0.0, 14.0, 11.0 ] },
+                "east": { "texture": "#0", "uv": [ 14.0, 0.0, 16.0, 11.0 ] },
+                "south": { "texture": "#0", "uv": [ 14.0, 0.0, 16.0, 11.0 ] },
+                "west": { "texture": "#0", "uv": [ 16.0, 0.0, 14.0, 11.0 ] },
+                "up": { "texture": "#0", "uv": [ 2.0, 0.0, 4.0, 2.0 ], "cullface": "up" },
+                "down": { "texture": "#0", "uv": [ 2.0, 0.0, 4.0, 2.0 ] }
+            }
+        }
+    ],
+    "display": {
+        "thirdperson": {
+            "rotation": [ -90, 0, 0 ],
+            "translation": [ 0, 0.5, -1 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson": {
+            "rotation": [ 20, -135, 0 ],
+            "translation": [ 0, 2, 2 ],
+            "scale": [ 1.7, 1.7, 1.7 ]
+        }
+    }
+}

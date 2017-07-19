@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "part=shaft3": {"model": "stone"},
+    "part=shaft2": {"model": "stone"},
+    "part=shaft1": {"model": "stone"},
+    "part=bottom": {"model": "stone"}
+  }
+}

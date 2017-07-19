@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,open=false": {"model": "iron_block"},
+    "facing=south,open=false": {"model": "iron_block"},
+    "facing=east,open=false": {"model": "iron_block"},
+    "facing=west,open=false": {"model": "iron_block"},
+    "facing=north,open=true": {"model": "iron_block"},
+    "facing=south,open=true": {"model": "iron_block"},
+    "facing=east,open=true": {"model": "iron_block"},
+    "facing=west,open=true": {"model": "iron_block"}
+  }
+}

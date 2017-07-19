@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "variant=noble": {"model": "intangible:soulcage_noble"},
+    "variant=wise": {"model": "intangible:soulcage_wise"},
+    "variant=benign": {"model": "intangible:soulcage_benign"},
+    "variant=malleable": {"model": "intangible:soulcage_malleable"},
+    "variant=immutable": {"model": "intangible:soulcage_immutable"},
+    "variant=unhinged": {"model": "intangible:soulcage_unhinged"},
+    "variant=predatory": {"model": "intangible:soulcage_predatory"},
+    "variant=doomed": {"model": "intangible:soulcage_doomed"}
+  }
+}

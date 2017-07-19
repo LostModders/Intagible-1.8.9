@@ -1,0 +1,18 @@
+[
+{
+  "modid": "intangible",
+  "name": "Intangible",
+  "description": "Music for the Soul",
+  "version": "1.8.9-0.0.25",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Emoniph"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "requiredMods": ["Forge"],
+  "dependencies": ["Baubles"],
+  "useDependencyInformation": "true"
+}
+]

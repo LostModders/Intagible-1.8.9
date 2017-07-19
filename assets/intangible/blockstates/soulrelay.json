@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=true": {"model": "stone"},
+    "powered=false": {"model": "stone"}
+  }
+}

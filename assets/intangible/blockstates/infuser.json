@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "nodrop=true,powered=true": {"model": "stone"},
+    "nodrop=false,powered=true": {"model": "stone"},
+    "nodrop=true,powered=false": {"model": "stone"},
+    "nodrop=false,powered=false": {"model": "stone"}
+  }
+}

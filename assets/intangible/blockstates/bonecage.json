@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,part=head": {"model": "stone"},
+    "facing=south,part=head": {"model": "stone"},
+    "facing=east,part=head": {"model": "stone"},
+    "facing=west,part=head": {"model": "stone"},
+    "facing=north,part=foot": {"model": "stone"},
+    "facing=south,part=foot": {"model": "stone"},
+    "facing=east,part=foot": {"model": "stone"},
+    "facing=west,part=foot": {"model": "stone"}
+  }
+}

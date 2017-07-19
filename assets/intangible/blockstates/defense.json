@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "nodrop=true": {"model": "glass"},
+    "nodrop=false": {"model": "glass"}
+  }
+}

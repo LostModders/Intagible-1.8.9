@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "nodrop=true": {"model": "quartz_normal"},
+    "nodrop=false": {"model": "quartz_normal"}
+  }
+}

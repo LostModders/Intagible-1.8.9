@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "top": "intangible:blocks/soulcage_top",
+    "bottom": "intangible:blocks/soulcage_bottom",
+    "side": "intangible:blocks/soulcage_benign"
+  }
+}

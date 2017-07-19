@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "iron_block"},
+    "facing=south": {"model": "iron_block"},
+    "facing=east": {"model": "iron_block"},
+    "facing=west": {"model": "iron_block"}
+  }
+}

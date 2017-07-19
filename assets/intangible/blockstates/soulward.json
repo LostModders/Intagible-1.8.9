@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north,part=head,structure=false": {"model": "stone"},
+    "facing=south,part=head,structure=false": {"model": "stone"},
+    "facing=east,part=head,structure=false": {"model": "stone"},
+    "facing=west,part=head,structure=false": {"model": "stone"},
+    "facing=north,part=foot,structure=false": {"model": "stone"},
+    "facing=south,part=foot,structure=false": {"model": "stone"},
+    "facing=east,part=foot,structure=false": {"model": "stone"},
+    "facing=west,part=foot,structure=false": {"model": "stone"},
+    "facing=north,part=head,structure=true": {"model": "stone"},
+    "facing=south,part=head,structure=true": {"model": "stone"},
+    "facing=east,part=head,structure=true": {"model": "stone"},
+    "facing=west,part=head,structure=true": {"model": "stone"},
+    "facing=north,part=foot,structure=true": {"model": "stone"},
+    "facing=south,part=foot,structure=true": {"model": "stone"},
+    "facing=east,part=foot,structure=true": {"model": "stone"},
+    "facing=west,part=foot,structure=true": {"model": "stone"}
+  }
+}

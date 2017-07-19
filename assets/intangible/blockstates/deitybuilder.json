@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "core=true": {"model": "stone"},
+    "core=false": {"model": "stone"}
+  }
+}
